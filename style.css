@@ -17,27 +17,27 @@ body {
 
 h1 {
     font-weight: normal;
-    font-size: 4rem;
+    font-size: 100px;
     margin-top: 5rem;
 }
 
-.countdown-container {
+.countdownContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.big-text {
+.bigText {
     font-weight: bold;
-    font-size: 6rem;
+    font-size: 100px;
     line-height: 1;
     margin: 1rem 2rem;
 }
 
-.countdown-el {
+.countdownEl {
     text-align: center;
 }
 
-.countdown-el span {
+/* .countdownEl span {
     font-size: 1.3rem;
-}
+} */
